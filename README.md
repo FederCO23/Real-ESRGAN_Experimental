@@ -19,12 +19,12 @@ Below are the results of applying super-resolution:
 
 Input Image (Before Super Resolution):
 
-<img src="./sup_images/img(23)_n_before.png" align="center" width="2048" />
+<img src="./sup-images/img(23)_n_before.png" align="center" width="2048" />
 
 
 Enhanced Image (After Super Resolution):
 
-<img src="./sup_images/img(23)_n_after.png" align="center" width="2048" />
+<img src="./sup-images/img(23)_n_after.png" align="center" width="2048" />
 
 
 The enhanced image demonstrates improved sharpness and finer details compared to the original image.
